@@ -57,7 +57,7 @@ function App() {
   return (
     <>
       <Box sx= {{ alignContent: 'center', textAlign: 'center', marginTop: '30px', width: '600px' , marginLeft: 'auto', marginRight: 'auto', backgroundColor: '#dfb9b9', borderRadius: '10px' }}>
-        <Typography variant="h1" margin="20px">SQL injection example</Typography>
+        <Typography variant="h1" margin="20px">CicApp - SQL injection example</Typography>
         {registering ? (
           <Box>
             <Typography variant="h4">Register</Typography>
